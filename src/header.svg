@@ -1,50 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="900" height="260"
-     viewBox="0 0 900 260"
-     fill="none">
 
-  <title>Thierry Barreto</title>
-  <desc>Dark Minimalist GitHub Header</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" rx="18" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="18" fill="none" stroke="#30363D"/>
 
-  <rect width="900" height="260" rx="14" fill="#0D1117"/>
+  <g stroke="#58A6FF" stroke-width="4" stroke-linecap="round">
+    <path d="M75 85 H155"/>
+    <path d="M75 205 H165"/>
+  </g>
 
-  <rect x="54" y="48" width="42" height="3"
-        rx="1.5" fill="#58A6FF"/>
-  <rect x="104" y="48" width="14" height="3"
-        rx="1.5" fill="#58A6FF" opacity="0.45"/>
-
-  <path d="M720 0H900V180"
-        stroke="#58A6FF" stroke-width="1.5" opacity="0.22"/>
-  <path d="M770 0H900V130"
-        stroke="#58A6FF" stroke-width="1.5" opacity="0.16"/>
-
-  <circle cx="818" cy="70" r="3"
-          fill="#58A6FF" opacity="0.8"/>
-  <circle cx="854" cy="106" r="2"
-          fill="#58A6FF" opacity="0.5"/>
-
-  <path d="M818 70L854 106L890 70"
-        stroke="#58A6FF" stroke-width="1.2" opacity="0.28"/>
-
-  <text x="54" y="124"
-        fill="#FFFFFF"
-        font-family="Inter, Segoe UI, Arial, sans-serif"
-        font-size="43"
+  <text x="75" y="175"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="68"
         font-weight="700"
-        letter-spacing="-1.2">Thierry Barreto</text>
+        fill="#F0F6FC">Thierry Barreto</text>
 
-  <rect x="56" y="145" width="74" height="3"
-        rx="1.5" fill="#58A6FF"/>
-
-  <text x="55" y="190"
-        fill="#8B949E"
+  <text x="77" y="260"
         font-family="monospace"
-        font-size="13"
-        letter-spacing="2.2">DEVELOPER PROFILE</text>
+        font-size="22"
+        letter-spacing="6"
+        fill="#8B949E">DEVELOPER PROFILE</text>
 
-  <path d="M54 226H846"
-        stroke="#30363D" stroke-width="1"/>
-  <path d="M54 226H190"
-        stroke="#58A6FF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M75 350 H1125"
+        stroke="#30363D"
+        stroke-width="2"/>
 
+  <path d="M1020 100 L1080 160 L1140 100"
+        fill="none"
+        stroke="#58A6FF"
+        stroke-width="2"
+        opacity="0.65"/>
+
+  <circle cx="1020" cy="100" r="5" fill="#58A6FF"/>
+  <circle cx="1080" cy="160" r="5" fill="#58A6FF"/>
 </svg>
