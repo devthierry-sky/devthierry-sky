@@ -14,10 +14,13 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 <h3> Sobre mim</h3>
 
-Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
-Apaixonado por programação e desenvolvimento de software.
-Em constante aprendizado e evolução técnica.
-Buscando desenvolver projetos práticos e construir uma carreira na área de tecnologia.
+•Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
+</br>
+•Apaixonado por programação e desenvolvimento de software.
+</br>
+•Em constante aprendizado e evolução técnica.
+</br>
+•Buscando desenvolver projetos práticos e construir uma carreira na área de tecnologia.
 
 #
 
@@ -33,7 +36,6 @@ Buscando desenvolver projetos práticos e construir uma carreira na área de tec
 ##
 
 <h3 align="left">My Stack</h3>
-<h4 align="left"> Atualmente, estou estudando e desenvolvendo minhas habilidades com:</h4>
 
 <img 
     align="left" 
@@ -102,8 +104,11 @@ Buscando desenvolver projetos práticos e construir uma carreira na área de tec
 <h3> Objetivos</h3>
 
 • Aprimorar meus conhecimentos em desenvolvimento front-end.
+</br>
 • Construir projetos para meu portfólio.
+</br>
 • Aprender novas tecnologias e boas práticas de programação.
+</br>
 • Conquistar oportunidades profissionais na área de desenvolvimento de software.
 
 <br/>
