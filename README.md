@@ -1,10 +1,7 @@
 
+
 <div align="center">
-  <img
-    src="./src/header.svg"
-    alt="Thierry Barreto — GitHub Header"
-    width="100%"
-  />
+  <img src="./src/header-mobile.svg" width="100%" alt="Thierry Barreto"/>
 </div>
 
 #
