@@ -94,8 +94,6 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 </br>
 • Conquistar oportunidades profissionais na área de desenvolvimento de software.
 
-<br/>
-
 #
 
 <h3 align="left">Connect with me!</h3>
