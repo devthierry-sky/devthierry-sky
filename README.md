@@ -1,20 +1,29 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Thierry Barreto+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-bah.
+Olá! Sou Thierry Barreto, tenho 20 anos e sou apaixonado por programação e tecnologia.
+Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar. Estou construindo minha jornada na programação, aprimorando minhas habilidades técnicas e desenvolvendo projetos para transformar conhecimentos em soluções reais.
+Acredito que a prática constante, a curiosidade e o aprendizado contínuo são fundamentais para evoluir como desenvolvedor.
  
+#
+
+<h3 Sobre mim</h3>
+
+Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
+Apaixonado por programação e desenvolvimento de software.
+Em constante aprendizado e evolução técnica.
+Buscando desenvolver projetos práticos e construir uma carreira na área de tecnologia.
+
 #
 
 <img align="right" alt="" height="190px" src="./src/image.jpeg">
 
 <h3 align="left">Connect with me!</h3>
-
-##
 
 <div>
   <a href="https://www.linkedin.com/in/thierry-barreto-b29b5143b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,6 +33,8 @@ bah.
 ##
 
 <h3 align="left">My Stack</h3>
+<br/>
+<h4 align="left"> Atualmente, estou estudando e desenvolvendo minhas habilidades com:</h4>
 
 <img 
     align="left" 
@@ -85,6 +96,13 @@ bah.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<h3 Objetivos</h3>
+
+Aprimorar meus conhecimentos em desenvolvimento front-end.
+Construir projetos para meu portfólio.
+Aprender novas tecnologias e boas práticas de programação.
+Conquistar oportunidades profissionais na área de desenvolvimento de software.
 
 <br/>
 <br/>
