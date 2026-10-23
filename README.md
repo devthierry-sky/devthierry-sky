@@ -1,11 +1,26 @@
 
 <div align="center">
 
-# Thierry Barreto
-
-### Desenvolvedor em formação | ADS — UniCesumar
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Apaixonado+por+programa%C3%A7%C3%A3o;Estudando+desenvolvimento+front-end;Transformando+ideias+em+c%C3%B3digo" alt="Animação de texto apresentando Thierry Barreto" />
+<table>
+  <tr>
+    <td>
+      <sub>● ● ●</sub>
+      <br/>
+      <strong>thierry@github:~</strong>
+      <br/><br/>
+      <code>$ whoami</code>
+      <h1>Thierry Barreto</h1>
+      <p align="left">
+        <code>&gt; Estudante de ADS</code>
+        <br/>
+        <code>&gt; Explorando o desenvolvimento web</code>
+        <br/>
+        <code>&gt; Construindo meus próximos projetos</code>
+      </p>
+      <sub>UniCesumar | Developer in progress</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
