@@ -1,8 +1,4 @@
-
-
-<div align="center">
-  <img src="./src/header.svg" width="100%" alt="Thierry Barreto"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=++Welcome,+To+My+Profile!++)](https://git.io/typing-svg)
 
 #
 
@@ -42,7 +38,6 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="TypeScript" 
@@ -51,7 +46,6 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React" 
@@ -60,7 +54,6 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img
     align="left"
     alt="Github"
@@ -69,7 +62,6 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -77,6 +69,14 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <br/>
@@ -117,23 +117,27 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=devthierry-sky&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=devthierry-sky&layout=compact&custom_title=Stack&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff" 
   />
-
 </p>
 
+<br clear="both">
+</br>
+</br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devthierry-sky/devthierry-sky/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution grid snake animation"
-    width="100%"
-  />
+<i>"Automatizando o presente ou programando o futuro?"</i> 
 </p>
