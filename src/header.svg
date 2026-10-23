@@ -3,15 +3,47 @@
   <rect width="700" height="420" rx="18" fill="#0D1117"/>
   <rect x="1" y="1" width="698" height="418" rx="17" fill="none" stroke="#30363D"/>
 
-  <path d="M48 68 H112" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#58A6FF" stroke-width="4" stroke-linecap="round">
+    <path d="M48 68 H112"/>
+    <path d="M48 220 H118"/>
+  </g>
 
-  <text x="48" y="145" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F0F6FC">Thierry</text>
-  <text x="48" y="202" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F0F6FC">Barreto</text>
+  <text
+    x="48"
+    y="145"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="48"
+    font-weight="700"
+    fill="#F0F6FC">Thierry</text>
 
-  <text x="50" y="276" font-family="monospace" font-size="17" fill="#8B949E">DEVELOPER PROFILE</text>
+  <text
+    x="48"
+    y="202"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="48"
+    font-weight="700"
+    fill="#F0F6FC">Barreto</text>
 
-  <path d="M48 340 H652" stroke="#30363D" stroke-width="2"/>
-  <path d="M535 75 L580 120 L625 75" fill="none" stroke="#58A6FF" stroke-width="2" opacity="0.65"/>
+  <text
+    x="50"
+    y="276"
+    font-family="monospace"
+    font-size="17"
+    letter-spacing="3"
+    fill="#8B949E">DEVELOPER PROFILE</text>
+
+  <path
+    d="M48 340 H652"
+    stroke="#30363D"
+    stroke-width="2"/>
+
+  <path
+    d="M535 75 L580 120 L625 75"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="2"
+    opacity=".65"/>
+
   <circle cx="535" cy="75" r="4" fill="#58A6FF"/>
   <circle cx="580" cy="120" r="4" fill="#58A6FF"/>
 </svg>
