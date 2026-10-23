@@ -9,31 +9,10 @@
 Olá! Sou Thierry Barreto, tenho 20 anos e sou apaixonado por programação e tecnologia.
 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar. Estou construindo minha jornada na programação, aprimorando minhas habilidades técnicas e desenvolvendo projetos para transformar conhecimentos em soluções reais.
 Acredito que a prática constante, a curiosidade e o aprendizado contínuo são fundamentais para evoluir como desenvolvedor.
- 
-#
-
-<h3> Sobre mim</h3>
-
-•Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
-</br>
-•Apaixonado por programação e desenvolvimento de software.
-</br>
-•Em constante aprendizado e evolução técnica.
-</br>
-•Buscando desenvolver projetos práticos e construir uma carreira na área de tecnologia.
 
 #
 
 <img align="right" alt="" height="190px" src="./src/image.jpeg">
-
-<h3 align="left">Connect with me!</h3>
-
-<div>
-  <a href="https://www.linkedin.com/in/thierry-barreto-b29b5143b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thierrybarreto793@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
 
 <h3 align="left">My Stack</h3>
 
@@ -113,6 +92,17 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 <br/>
 <br/>
+
+#
+
+<h3 align="left">Connect with me!</h3>
+
+<div>
+  <a href="https://www.linkedin.com/in/thierry-barreto-b29b5143b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thierrybarreto793@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+#
 
 <h3 align="left">GitHub Stats</h3>
 
