@@ -12,7 +12,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
  
 #
 
-<h3 Sobre mim</h3>
+Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
 Apaixonado por programação e desenvolvimento de software.
@@ -33,7 +33,6 @@ Buscando desenvolver projetos práticos e construir uma carreira na área de tec
 ##
 
 <h3 align="left">My Stack</h3>
-<br/>
 <h4 align="left"> Atualmente, estou estudando e desenvolvendo minhas habilidades com:</h4>
 
 <img 
@@ -97,7 +96,11 @@ Buscando desenvolver projetos práticos e construir uma carreira na área de tec
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<h3 Objetivos</h3>
+<br/>
+#
+<br/>
+
+Objetivos
 
 Aprimorar meus conhecimentos em desenvolvimento front-end.
 Construir projetos para meu portfólio.
@@ -105,6 +108,7 @@ Aprender novas tecnologias e boas práticas de programação.
 Conquistar oportunidades profissionais na área de desenvolvimento de software.
 
 <br/>
+#
 <br/>
 
 <h3 align="left">GitHub Stats</h3>
