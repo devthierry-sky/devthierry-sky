@@ -1,38 +1,17 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="600" viewBox="0 0 700 600">
-  <rect width="700" height="600" rx="18" fill="#0D1117"/>
-  <rect x="1" y="1" width="698" height="598" rx="17" fill="none" stroke="#30363D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+  <rect width="700" height="420" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="698" height="418" rx="17" fill="none" stroke="#30363D"/>
 
-  <path d="M48 95 H145" stroke="#58A6FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M48 68 H112" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
 
-  <text x="48" y="220"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="64"
-        font-weight="700"
-        fill="#F0F6FC">Thierry</text>
+  <text x="48" y="145" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F0F6FC">Thierry</text>
+  <text x="48" y="202" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F0F6FC">Barreto</text>
 
-  <text x="48" y="300"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="64"
-        font-weight="700"
-        fill="#F0F6FC">Barreto</text>
+  <text x="50" y="276" font-family="monospace" font-size="17" fill="#8B949E">DEVELOPER PROFILE</text>
 
-  <path d="M48 330 H175" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
-
-  <text x="50" y="395"
-        font-family="monospace"
-        font-size="19"
-        letter-spacing="3"
-        fill="#8B949E">DEVELOPER PROFILE</text>
-
-  <path d="M48 500 H652" stroke="#30363D" stroke-width="2"/>
-
-  <path d="M505 110 L570 175 L635 110"
-        fill="none"
-        stroke="#58A6FF"
-        stroke-width="2"
-        opacity="0.65"/>
-
-  <circle cx="505" cy="110" r="5" fill="#58A6FF"/>
-  <circle cx="570" cy="175" r="5" fill="#58A6FF"/>
+  <path d="M48 340 H652" stroke="#30363D" stroke-width="2"/>
+  <path d="M535 75 L580 120 L625 75" fill="none" stroke="#58A6FF" stroke-width="2" opacity="0.65"/>
+  <circle cx="535" cy="75" r="4" fill="#58A6FF"/>
+  <circle cx="580" cy="120" r="4" fill="#58A6FF"/>
 </svg>
