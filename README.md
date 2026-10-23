@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./src/header-mobile.svg" width="100%" alt="Thierry Barreto"/>
+  <img src="./src/header.svg" width="100%" alt="Thierry Barreto"/>
 </div>
 
 #
