@@ -91,11 +91,12 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 • Conquistar oportunidades profissionais na área de desenvolvimento de software.
 
 <br/>
-<br/>
 
 #
 
 <h3 align="left">Connect with me!</h3>
+
+<br/>
 
 <div>
   <a href="https://www.linkedin.com/in/thierry-barreto-b29b5143b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -105,6 +106,8 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 #
 
 <h3 align="left">GitHub Stats</h3>
+
+<br/>
 
 <p>
   <img 
