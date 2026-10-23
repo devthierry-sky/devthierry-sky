@@ -6,6 +6,8 @@
 
 #
 
+<h3>Sobre mim</h3>
+
 Olá! Sou Thierry Barreto, tenho 20 anos e sou apaixonado por programação e tecnologia.
 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar. Estou construindo minha jornada na programação, aprimorando minhas habilidades técnicas e desenvolvendo projetos para transformar conhecimentos em soluções reais.
 Acredito que a prática constante, a curiosidade e o aprendizado contínuo são fundamentais para evoluir como desenvolvedor.
@@ -79,6 +81,8 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 <br/>
 <br/>
+
+#
 
 <h3> Objetivos</h3>
 
