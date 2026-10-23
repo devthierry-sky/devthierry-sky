@@ -1,8 +1,8 @@
 
 <div align="center">
   <img
-    src="https://placehold.co/900x260/0D1117/4ADE80?text=%24+whoami%0A%0AThierry+Barreto%0A%0AEstudante+de+ADS+%7C+Desenvolvimento+Web&font=roboto"
-    alt="Thierry Barreto — Estudante de ADS e desenvolvedor em formação"
+    src="./src/header.svg"
+    alt="Thierry Barreto — GitHub Header"
     width="100%"
   />
 </div>
