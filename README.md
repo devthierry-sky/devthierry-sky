@@ -1,27 +1,10 @@
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <sub>● ● ●</sub>
-      <br/>
-      <strong>thierry@github:~</strong>
-      <br/><br/>
-      <code>$ whoami</code>
-      <h1>Thierry Barreto</h1>
-      <p align="left">
-        <code>&gt; Estudante de ADS</code>
-        <br/>
-        <code>&gt; Explorando o desenvolvimento web</code>
-        <br/>
-        <code>&gt; Construindo meus próximos projetos</code>
-      </p>
-      <sub>UniCesumar | Developer in progress</sub>
-    </td>
-  </tr>
-</table>
-
+  <img
+    src="https://placehold.co/900x260/0D1117/4ADE80?text=%24+whoami%0A%0AThierry+Barreto%0A%0AEstudante+de+ADS+%7C+Desenvolvimento+Web&font=roboto"
+    alt="Thierry Barreto — Estudante de ADS e desenvolvedor em formação"
+    width="100%"
+  />
 </div>
 
 #
