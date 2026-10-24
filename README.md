@@ -60,7 +60,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="32"
 />
 <img 
     align="left" 
@@ -141,3 +141,4 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 <p align="center">
 <i>"Automatizando o presente ou programando o futuro?"</i> 
 </p>
+          
