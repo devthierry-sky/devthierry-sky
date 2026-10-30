@@ -10,7 +10,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 #
 
-<img align="right" alt="Imagem de perfil" height="190px" src="./src/">
+<img align="right" alt="" height="190px" src="">
 
 <h3 align="left">My Stack</h3>
 
