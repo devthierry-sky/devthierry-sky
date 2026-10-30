@@ -10,7 +10,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 #
 
-<img align="right" alt="" height="190px" src="./src/image.jpeg">
+<img align="right" alt="Imagem de perfil" height="190px" src="./src/">
 
 <h3 align="left">My Stack</h3>
 
@@ -60,7 +60,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="32"
+    src="https://cdn.simpleicons.org/github/FFFFFF"
 />
 <img 
     align="left" 
@@ -79,7 +79,7 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
-<br/>
+<br clear="left"/>
 <br/>
 
 #
@@ -131,9 +131,9 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 </br>
 </br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devthierry-sky/devthierry-sky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devthierry-sky/devthierry-sky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devthierry-sky/devthierry-sky/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
