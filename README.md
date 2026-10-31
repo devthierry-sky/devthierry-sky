@@ -111,19 +111,26 @@ Acredito que a prática constante, a curiosidade e o aprendizado contínuo são 
 
 <br/>
 
-<p>
-<img
-  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&v=3"
-  alt="GitHub Statistics"
-  height="200"
-/>
-
-<img
-  src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=devthierry-sky&layout=compact&custom_title=Stack&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&border_color=ffffff"
-  alt="Top Languages"
-  height="200"
-/>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="12" style="border: none; border-collapse: separate;">
+    <tr>
+      <td style="border: none;">
+        <img
+          src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&v=3"
+          alt="GitHub Statistics"
+          height="180"
+        />
+      </td>
+      <td style="border: none;">
+        <img
+          src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=devthierry-sky&layout=compact&custom_title=Stack&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&border_color=ffffff&card_width=400"
+          alt="Top Languages"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br clear="both">
 </br>
