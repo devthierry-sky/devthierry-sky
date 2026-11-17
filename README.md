@@ -87,7 +87,7 @@ I'm always looking to improve my skills, collaborate on projects, and grow profe
     <tr>
       <td style="border: none;">
         <img
-          src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=3600&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&v=4"
+          src="https://github-readme-stats-two-omega-43.vercel.app/api?username=devthierry-sky&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=3700&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics&v=4"
           alt="GitHub Statistics"
           height="180"
         />
